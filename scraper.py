@@ -3,7 +3,7 @@
 myvar='He said "hello".'
 myage=50
 mylist=['this','that','theother']
-mynumlist=[1.15.25.35]
+mynumlist=[1,15,25,35]
 print myvar
 print myage
 # import scraperwiki
